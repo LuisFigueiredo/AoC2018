@@ -26,7 +26,7 @@ int main() {
 //    console->set_level(spdlog::level::debug);
 //    err_log->set_level(spdlog::level::debug);
 
-    console->info("Advent of Code - Day 02");
+    console->info("Advent of Code - Day 03");
 
     constexpr std::string_view inputFilename {"../input.txt"};
     std::ifstream inFile {inputFilename.data()};
